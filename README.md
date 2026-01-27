@@ -6,3 +6,4 @@ type description here
 - Sofia Hartman
 
 ## Full Project Idea
+some new text here.
