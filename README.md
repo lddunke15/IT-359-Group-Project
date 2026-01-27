@@ -2,7 +2,7 @@
 type description here
 
 ## Team Members
--Laney Dunker
--Sofia Hartman
+- Laney Dunker
+- Sofia Hartman
 
 ## Full Project Idea
