@@ -5,4 +5,4 @@ type description here
 -Laney Dunker
 -Sofia Hartman
 
-##Full Project Idea
+## Full Project Idea
